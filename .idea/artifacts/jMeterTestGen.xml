@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="jMeterTestGen">
+    <output-path>$PROJECT_DIR$/out/artifacts/jMeterTestGen</output-path>
+    <root id="archive" name="jMeterTestGen.jar">
+      <element id="module-output" name="jMeterTestGen" />
+    </root>
+  </artifact>
+</component>
